@@ -978,7 +978,7 @@
 		background: #fff;
 		color: #555f66;
 		cursor: default;
-		height: 3em;
+		height: 4em;
 		left: 0;
 		line-height: 3em;
 		position: fixed;
@@ -1053,11 +1053,12 @@
 						position: relative;
 						top: -0.075em;
 						vertical-align: middle;
+
 					}
 
 		#header .container {
 			position: relative;
-			background: rgba(0,0,0,2);
+			background: rgba(0,0,0,255);
 		}
 
 			#header .container h1 {
@@ -1078,13 +1079,14 @@
 		background-repeat: no-repeat;
 		color: #ffffff;
 		padding: 14em 0;
-		padding-left: 4vh;
 		text-align: left;
+		padding-left: 4vh;
 		font-family:'sifonnpro';
 		
 		position: relative;
 	}
 
+		
 		#banner:before {
 			content: '';
 			position: absolute;
