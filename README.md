@@ -11,3 +11,5 @@ Hidd3n area lol.
 - Logo alignment
 - Apple product styling :(
 - Podcast?
+- Wording changes to about (see screenshot)
+- Remove second resource on resource page
